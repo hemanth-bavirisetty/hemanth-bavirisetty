@@ -37,6 +37,11 @@
   <a href="https://x.com/hemanth_log"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://discord.com/users/835056491781554177"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
   <a href="https://dev.to/hemanth_bavirisetty"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <a href="https://www.reddit.com/user/Few-Description-14/"><img src="https://img.shields.io/static/v1?message=reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo"  /></a>
+  <a href="https://www.instagram.com/hemanthbavirisetty"><img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=C27E79&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href="https://www.facebook.com/manikanta.bavirisetty.3"><img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
+
+
 </div>
 
 
